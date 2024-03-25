@@ -25,20 +25,34 @@ Git (opcional, se você planeja clonar o repositório)
 
 1. Clone este repositorio em sua máquina local:
   ```bash
-git clone https://github.com/seu-usuario/seubanco.git```
-3. Passo 2
-4. ...
+git clone https://github.com/seu-usuario/seubanco.git
+```
+2. Navegue até o diretorio do projeto:
+  ```bash
+cd seubanco
+```
+3. Compile o código-fonte do aplicativo:
+```bash
+javac BancoApp.java
+```
+4. Execute o aplicativo:
+```bash
+java BancoApp
+```
+5. Siga as instruções fornecidas pelo aplicativo para criar uma conta ou fazer login se você já possui conta existente.
 
 ## Contribuição
+Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga estas etapas:
 
 1. Faça um fork do repositório
-2. Clone o fork em sua máquina local
-3. Faça as alterações desejadas
-4. Abra um pull request
+2. Crie sua branch de feature (git checkout -b feature/MinhaFeature)
+3. Faça commit de suas alterações (git commit -am 'Adicionar nova funcionalidade')
+4. Faça push para a branch (git push origin feature/MinhaFeature)
+5. Abra um Pull Request
 
 ## Licença
 
-Este projeto está licenciado sob a [MITlicense](LICENSE.md).
+Este projeto está licenciado sob a [MITlicense](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt).
 
 ## Contato
 
