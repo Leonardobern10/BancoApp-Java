@@ -24,7 +24,8 @@ Git (opcional, se você planeja clonar o repositório)
 ## Como Executar
 
 1. Clone este repositorio em sua máquina local:
-  ```bash git clone https://github.com/seu-usuario/seubanco.git```
+  ```bash
+git clone https://github.com/seu-usuario/seubanco.git```
 3. Passo 2
 4. ...
 
