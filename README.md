@@ -23,9 +23,10 @@ Git (opcional, se você planeja clonar o repositório)
 
 ## Como Executar
 
-1. Passo 1
-2. Passo 2
-3. ...
+1. Clone este repositorio em sua máquina local:
+  ```bash git clone https://github.com/seu-usuario/seubanco.git```
+3. Passo 2
+4. ...
 
 ## Contribuição
 
@@ -36,9 +37,9 @@ Git (opcional, se você planeja clonar o repositório)
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença X](LICENSE.md).
+Este projeto está licenciado sob a [MITlicense](LICENSE.md).
 
 ## Contato
 
-- Email: seuemail@example.com
-- Twitter: [@seuusuario](https://twitter.com/seuusuario)
+- Email: leonardo.bernardo2658@gmail.com
+- LinkedIn: linkedin.com/in/leonardo-bern/
