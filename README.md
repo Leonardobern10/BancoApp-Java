@@ -12,3 +12,33 @@ Projeto básico em Java que simula um aplicativo de banco com funcionalidade bá
 </ul>
 <ul>Abordagens personalizadas: A situações de tratamentos de exceções e validações são criadas de forma personalidada e tratas individualmente conforme sua aplicação e abordagem.</ul>
 
+Visão Geral
+O SEUBANCO é um aplicativo bancário que permite aos usuários criar contas, fazer login e realizar operações bancárias básicas, como saques, depósitos, consulta de saldo e visualização de extrato.
+
+Pré-requisitos
+Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
+
+Java Development Kit (JDK) 8 ou superior
+Git (opcional, se você planeja clonar o repositório)
+
+## Como Executar
+
+1. Passo 1
+2. Passo 2
+3. ...
+
+## Contribuição
+
+1. Faça um fork do repositório
+2. Clone o fork em sua máquina local
+3. Faça as alterações desejadas
+4. Abra um pull request
+
+## Licença
+
+Este projeto está licenciado sob a [Licença X](LICENSE.md).
+
+## Contato
+
+- Email: seuemail@example.com
+- Twitter: [@seuusuario](https://twitter.com/seuusuario)
